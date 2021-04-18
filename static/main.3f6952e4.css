@@ -56,7 +56,7 @@ abbr[title] {
 }
 b,
 strong {
-    font-weight: 700;
+    font-weight: 800;
 }
 dfn {
     font-style: italic;
@@ -88,6 +88,11 @@ sub {
 img {
     border: 0;
 }
+.skill-svg{
+    height: 2px;
+    width: 2px;
+}
+
 svg:not(:root) {
     overflow: hidden;
 }
