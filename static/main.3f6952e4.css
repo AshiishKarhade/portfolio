@@ -4897,11 +4897,11 @@ blockquote small {
 }
 .fa-icon {
     color: #000;
-    width: 32px;
-    height: 32px;
+    width: 35px;
+    height: 35px;
     display: inline-block;
     line-height: 32px;
-    font-size: 15px;
+    font-size: 18px;
     text-align: center;
 }
 .form-control {
